@@ -100,7 +100,7 @@ Cost = 3.52 km
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/astar-pathfinding-dhaka.git
+git clone https://github.com/abix404/A-Pathfinding-Azimpur-to-Farmgate-UAP.git
 cd astar-pathfinding-dhaka
 
 # Run the algorithm
