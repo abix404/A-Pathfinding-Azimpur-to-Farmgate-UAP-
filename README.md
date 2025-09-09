@@ -112,11 +112,11 @@ View results in docs/ for detailed explanations and diagrams
 
 The A* algorithm successfully computed the optimal route from Azimpur to Farmgate (UAP) with a cost of 3.52 km.
 
-# The heuristic was admissible, guaranteeing optimality
+ ◼ The heuristic was admissible, guaranteeing optimality
 
-# One edge violated consistency, but the solution remained optimal
+ ◼ One edge violated consistency, but the solution remained optimal
 
-# The project provides:
+ ◼ The project provides:
 
 - Iteration tables
 
