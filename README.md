@@ -118,10 +118,10 @@ One edge violated consistency, but the solution remained optimal
 
 The project provides:
 
-Iteration tables
+- Iteration tables
 
-Search trees
+- Search trees
 
-Heuristic validation
+- Heuristic validation
 
-Demonstrating A*’s effectiveness in real-world navigation problems.
+- Demonstrating A*’s effectiveness in real-world navigation problems.
